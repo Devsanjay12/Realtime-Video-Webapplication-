@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "748635827007",
+    "project_id": "atom8-1cbf2",
+    "storage_bucket": "atom8-1cbf2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:748635827007:android:d33dec219a1e567e26018a",
+        "android_client_info": {
+          "package_name": "dev.flutterexplained.webrtc_tutorial"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5IHaXrQ48588QGlELwldLIhnBCTEV2kQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
